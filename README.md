@@ -11,4 +11,5 @@ This Java method was part of a Google test for technical writers that I received
 > You can use text, code comments, or any other techniques you like.
 > 2. Assume you have a chance to send comments to the person who wrote the code. 
 > Suggest ways to improve the code (for example, to reduce memory usage or enhance features).
-> Your writing should be ready for publication and should have a level of depth suitable for an experienced developer audience.
+
+Your writing should be ready for publication and should have a level of depth suitable for an experienced developer audience.
