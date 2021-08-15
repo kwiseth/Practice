@@ -2,7 +2,7 @@
 Repository to play with git, python, etc, for technical writers. 
 
 
-## Google writing exercise
+## I. Google writing exercise
 ### Documenting source code
 The `findNeedles.java` file was part of a Google test for technical writers (2014, 2017, but not used in 2020) with the following instructions:
 
@@ -13,3 +13,6 @@ The `findNeedles.java` file was part of a Google test for technical writers (201
 > Suggest ways to improve the code (for example, to reduce memory usage or enhance features).
 
 Your writing should be ready for publication and should have a level of depth suitable for an experienced developer audience.
+
+## II. Python basics
+### ? or something else ?? @ftaylor2000 
