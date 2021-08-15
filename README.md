@@ -1,4 +1,4 @@
-# Training
+# Practice
 Repository to play with git, python, etc, for technical writers. 
 @ftaylor2000 your thoughts? add to this list whatever you like. 
 
